@@ -17,7 +17,7 @@ konten = [
   },
 ];
 
-musik = "musik.mp3";
+musik = "sempurna.mp3";
 nomorWhatsapp = "6285xxx";
 
 /*=========================*/
